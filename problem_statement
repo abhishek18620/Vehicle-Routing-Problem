@@ -1,0 +1,7 @@
+The VRPSD is a variation of the classical VRP, where each customer can be served by more
+than one vehicle. Thus, for the VRPSD, besides the delivery routes, the amount to be
+delivered to each customer in each vehicle must also be determined. The option of splitting
+a demand makes it possible to service a customer whose demand exceeds the vehicle
+capacity. Splitting may also allow decreasing costs. The vehicle routing problem with time
+windows and split deliveries (VRPTWSD) is an extension of the VRPSD, adding to it the
+time window restraints.
